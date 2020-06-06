@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+.container{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color:gold;
+}
+.toolbar{
+
+    width: 100%;
+    height: 20%;
+    margin: 0;
+
+}
+.toolbarOrganization{
+    display: flex;
+    flex-direction: row;
+    background-color: purple;
+    width: 100%;
+    height: 20%;
+}
+.content{
+    margin: 0;
+    font-size: 30px;
+    background-color: salmon;
+}
+p{
+    text-align: center;
+    margin: 0;
+}

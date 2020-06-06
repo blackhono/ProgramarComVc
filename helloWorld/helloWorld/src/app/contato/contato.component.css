@@ -1,0 +1,15 @@
+p{
+    font-size: 30px;
+    color: white;
+    transition: 0.2s ease-in-out;
+    padding: 20px;
+    margin:0px;
+
+}
+
+p:hover{
+    color:purple;
+    background-color: white;
+    transition: 0.2s ease-in-out;
+
+}
