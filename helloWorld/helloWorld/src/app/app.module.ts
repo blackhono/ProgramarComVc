@@ -26,8 +26,8 @@ import { NavbarbootstrapComponent } from './navbarbootstrap/navbarbootstrap.comp
   bootstrap: [HomeComponent,
     MetodoComponent,
     BlogComponent,
-  SobreComponent,
-  ContatoComponent,
-NavbarbootstrapComponent]
+    SobreComponent,
+    ContatoComponent,
+    NavbarbootstrapComponent]
 })
 export class AppModule { }
