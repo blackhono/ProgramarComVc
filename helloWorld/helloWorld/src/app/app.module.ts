@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { MetodoComponent } from './metodo/metodo.component';
 import { BlogComponent } from './blog/blog.component';
 import { ContatoComponent } from './contato/contato.component';
+import { NavbarbootstrapComponent } from './navbarbootstrap/navbarbootstrap.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ContatoComponent } from './contato/contato.component';
     SobreComponent,
     MetodoComponent,
     BlogComponent,
-    ContatoComponent
+    ContatoComponent,
+    NavbarbootstrapComponent
   ],
   imports: [
     BrowserModule,
@@ -25,6 +27,7 @@ import { ContatoComponent } from './contato/contato.component';
     MetodoComponent,
     BlogComponent,
   SobreComponent,
-  ContatoComponent]
+  ContatoComponent,
+NavbarbootstrapComponent]
 })
 export class AppModule { }
