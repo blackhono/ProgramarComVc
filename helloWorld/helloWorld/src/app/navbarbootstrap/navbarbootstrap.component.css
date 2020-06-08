@@ -1,6 +1,6 @@
 .navbar {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    left: 0px;
+    position: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
